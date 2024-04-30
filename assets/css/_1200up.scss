@@ -1,0 +1,36 @@
+@use '_variables';
+
+@media (min-width: 1200px) {
+    
+    body {
+        min-width: 1200px;      
+       
+    }
+    
+    h1 {
+        font-size: 5em;
+    }
+    
+    li, input  {
+        font-size: 1.4em;
+    }
+    
+    input  {
+        font-size: 1.4em;
+        height: 8vh;
+        border-radius: 4vh;
+        }
+    
+    .check {
+        height: 4vh;
+        width: 4vh;
+        margin: 4vh 4vh 4vh 0;
+    }
+    
+    .add, .delete {
+        border-radius: 4vh;
+        width: 18vh;
+        height: 8vh;
+        font-size: 1.4em;
+    }
+}
