@@ -8,3 +8,5 @@ Training solo project to summarize our current knowledge of :
 * Javascript
 * The DOM
 * Event listeners
+
+[The project page](https://nataliiatasha.github.io/my-to-do-list/)
